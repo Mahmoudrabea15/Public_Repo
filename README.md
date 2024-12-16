@@ -3,6 +3,4 @@ A repo for forking
 
 second note
 
-<img src="C:\Users\top\Downloads/car.jpg"/>
-<img src="C:\Users\top\Downloads\car.jpg"/>
-<img src="C:/Users/top/Downloads/car.jpg"/>
+![image alt](https://github.com/Mahmoudrabea15/Public_Repo/blob/main/Pr.jpg.png?raw=true)
